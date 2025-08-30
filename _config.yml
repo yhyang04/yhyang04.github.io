@@ -23,7 +23,7 @@ repository               : "yhyang04/yhyang04.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/me.jpg"
+  avatar           : "images/me.png"
   name             : "Yuhan Yang"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student at Sichuan University"
