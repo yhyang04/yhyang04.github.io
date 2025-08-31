@@ -19,6 +19,9 @@ My research interests mainly focus on the following directions:
 
 I am also willing to exploring other emerging areas in artificial intelligence that inspire me！
 
+<span style="color:red; font-weight:bold;">
+🚀 I'm seeking for 2026 Fall PhD position, please feel free to contact me!
+</span>
 
 
 A data-driven personal website
