@@ -9,7 +9,7 @@ redirect_from:
 
 I am a senior undergraduate student at **Sichuan University**. Currently, I am a research intern at the **University of Virginia**, working with [Prof. Jundong Li](https://jundongli.github.io/). Previously, I was a research assistant at **Chongqing University**.
 
-My research interests mainly focus on the following directions, and I am also willing to exploring other emerging areas in artificial intelligence that inspire me 🙌:
+My research interests mainly focus on the following directions, and I am also willing to exploring other emerging areas in artificial intelligence 🙌:
 1. **Graph Mining & Data Mining**  
 Graph neural networks, representation learning, and their applications in recommendation systems and scientific discovery.  
 2. **Machine Learning & Trustworthy AI**  
@@ -18,7 +18,7 @@ Robust and fair learning, interpretability, and responsible deployment.
 Language understanding, knowledge integration, and AI for science.
 
 <span style="color:red; font-weight:bold;">
-🚀 I'm seeking for 2026 Fall PhD position, please feel free to contact me!
+🚀 I am currently seeking PhD positions for Fall 2026 and research internship opportunities. Please feel free to contact me！
 </span>
 
 News
@@ -83,3 +83,6 @@ Reviewer: CIKM 2025, AAAI 2026
 
 ## More information
 I love 🎵 music, 🌍 traveling, 📸 photography, and 🏸 sports. I was also part of the University Art Troupe, where I both organized and participated in various performances and cultural events🎙️.
+
+📧 Email: [yyh@stu.scu.edu.cn](mailto:yyh@stu.scu.edu.cn)
+          [yuhan_yang_@outlook.com](mailto:yuhan_yang_@outlook.com)
