@@ -39,7 +39,7 @@ Dec, 2023: 🥇 First Prize in the Chinese National Undergraduate Mathematics Co
   <div style="flex-grow: 1; text-align: left;">
     <h3 style="margin-top: 0; margin-bottom: 0.5em;"><strong>Multi-Scale Transformers with dual attention and adaptive masking for sequential recommendation</strong></h3>
     <p style="margin: 0;">
-      Haiqin Li; <strong>Yuhan Yang</strong>; Jun Zeng; Min Gao; Junhao Wen
+      Haiqin Li, <strong>Yuhan Yang</strong>, Jun Zeng, Min Gao, Junhao Wen
     </p>
     <p style="margin: 0.5em 0 0;">
       <em>Information Processing & Management</em> <a href="https://doi.org/10.1016/j.ipm.2025.104318">Paper</a>
