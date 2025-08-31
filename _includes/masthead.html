@@ -6,11 +6,13 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
 
-        <ul class="visible-links masthead-links">
+        <ul class="visible-links masthead-left">
           <li class="masthead__menu-item masthead__menu-item--lg persist">
             <a href="{{ base_path }}/">{{ site.title }}</a>
           </li>
+        </ul>
 
+        <ul class="visible-links masthead-right">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
@@ -28,6 +30,7 @@
             </a>
           </li>
         </ul>
+
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
