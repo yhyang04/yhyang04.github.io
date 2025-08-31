@@ -44,8 +44,9 @@
 
 .masthead__menu {
   display: flex;
-  justify-content: space-between; /* 关键：将左侧和右侧的 ul 推向两端 */
+  justify-content: space-between; /* 保持左右两端对齐 */
   align-items: center;
+  width: 100%; /* 确保占满整个宽度 */
 
   ul {
     margin: 0;
@@ -61,8 +62,15 @@
     display: none;
   }
 
+  /* 左侧名字部分 */
+  .masthead-left {
+    flex: 0 0 auto; /* 不伸缩，保持原始大小 */
+  }
+
+  /* 右侧导航菜单 */
   .masthead-right {
-    gap: 1rem;
+    flex: 0 0 auto; /* 不伸缩，保持原始大小 */
+    gap: 1.5rem; /* 增加菜单项之间的间距 */
     white-space: nowrap;
   }
 }
@@ -74,8 +82,8 @@
   padding: 0.5em 0;
 
   &--lg {
-    padding-right: 2em;
     font-weight: 700;
+    /* 移除右边距，因为我们用gap来控制间距 */
   }
 }
 
