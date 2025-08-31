@@ -1,20 +1,11 @@
-/* ==========================================================================
-   MASTHEAD
-   ========================================================================== */
-
 .masthead {
   position: fixed;
   background: var(--global-bg-color);
   height: fit-content;
   top: 0;
   width: 100%;
-
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
   z-index: 20;
-
+  
   &::after {
     content: "";
     position: absolute;
@@ -30,10 +21,6 @@
     padding: 0.5em 1em;
     font-family: $sans-serif-narrow;
 
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
-
     nav {
       z-index: 10;
     }
@@ -45,19 +32,29 @@
 }
 
 .masthead__menu {
+  display: flex;
+  justify-content: space-between; /* 左右分开 */
+  align-items: center;
 
   ul {
     margin: 0;
     padding: 0;
-    clear: both;
     list-style-type: none;
+    display: flex; /* 水平排列菜单项 */
+  }
+
+  .masthead-left {
+    margin-right: auto; /* 左边名字靠左 */
+  }
+
+  .masthead-right {
+    gap: 1rem; /* 菜单项间距 */
   }
 }
 
 .masthead__menu-item {
   background-color: var(--global-bg-color);
   display: block;
-  list-style-type: none;
   white-space: nowrap;
 
   &--lg {
