@@ -64,7 +64,7 @@ Diversity-Aware for Multi-Behavior Sequential Recommendation</strong></h3>
   </div>
 </div>
 
-A complete list of papers is available in my [CV](assets/CV_YuhanYang)
+A complete list of papers is available in my [CV](/assets/CV_YuhanYang.pdf)
 
 
 
