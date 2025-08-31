@@ -32,7 +32,7 @@ Oct, 2024: 🎉 Awarded the Outstanding Undergraduate Student Award (Top 3%)!
 Dec, 2023: 🥇 First Prize in the Chinese National Undergraduate Mathematics Competition (Top 3%)!
 
 ## Publications {#publications}
-<table style="width: 80%; margin: 0 auto;">
+<table style="width: 100%; margin: 0 auto;">
   <tr>
     <td style="width: 200px;">
       <img src="images/ipm.png" alt="IPM Paper" style="width: 100%; height: auto; object-fit: cover; border-radius: 5px;">
