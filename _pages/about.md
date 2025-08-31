@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student at **Sichuan University**. Currently, I am a research intern at the **University of Virginia**, working with Prof. Jundong Li(https://jundongli.github.io/). Previously, I was a research assistant at Chongqing University.
+I am a senior undergraduate student at **Sichuan University**. Currently, I am a research intern at the **University of Virginia**, working with [Prof. Jundong Li](https://jundongli.github.io/). Previously, I was a research assistant at Chongqing University.
 
 
 A data-driven personal website
