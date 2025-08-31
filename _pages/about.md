@@ -58,7 +58,8 @@ Diversity-Aware for Multi-Behavior Sequential Recommendation</strong></h3>
       Peixuan Sun, Zhida Zheng, <strong>Yuhan Yang</strong>, Wei Zhou, Junhao Wen
     </p>
     <p style="margin: 0.5em 0 0;">
-      <em>International Conference on Intelligent Computing (ICIC 2025)</em> <a href="https://doi.org/10.1016/j.ipm.2025.104318">Paper</a>
+      <em>International Conference on Intelligent Computing</em><br>
+      <em>(ICIC 2025)</em> <a href="https://doi.org/10.1016/j.ipm.2025.104318">Paper</a>
     </p>
   </div>
 </div>
