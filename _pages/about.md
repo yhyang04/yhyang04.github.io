@@ -80,4 +80,4 @@ Reviewer: CIKM 2025, AAAI 2026
 
 
 ## More information
-
+I love 🎵 music, 🌍 traveling, 📸 photography, and 🏸 sports. I was also part of the University Art Troupe, where I both organized and participated in various performances and cultural events🎙️.
