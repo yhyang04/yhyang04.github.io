@@ -15,7 +15,8 @@ My research interests mainly focus on the following directions:
 2. **Machine Learning & Trustworthy AI**  
    - Robust and fair learning, interpretability, and responsible deployment.  
 3. **Natural Language Processing & Large Language Models**  
-   - Language understanding, knowledge integration, and AI for science.  
+   - Language understanding, knowledge integration, and AI for science.
+
 I am also willing to exploring other emerging areas in artificial intelligence that inspire me！
 
 
