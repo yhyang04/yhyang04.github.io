@@ -43,8 +43,8 @@
 }
 
 .masthead__menu {
-  display: flex;
-  justify-content: space-between; /* 关键：将左侧和右侧的 ul 推向两端 */
+  display: flex; /* 让 nav 中的 ul 在一行显示 */
+  justify-content: flex-start; /* 保持 ul 左对齐 */
   align-items: center;
 
   ul {
@@ -54,16 +54,13 @@
     display: flex;
     flex-wrap: nowrap;
     align-items: center;
+    width: 100%; /* 让 ul 占据整个可用宽度 */
   }
+}
 
-  .masthead-left {
-    /* 无需额外的 margin */
-  }
-
-  .masthead-right {
-    gap: 1rem;
-    white-space: nowrap;
-  }
+.masthead-links {
+  gap: 1rem;
+  white-space: nowrap;
 }
 
 .masthead__menu-item {
@@ -73,7 +70,7 @@
   padding: 0.5em 0;
 
   &--lg {
-    padding-right: 2em;
     font-weight: 700;
+    margin-right: auto; /* 关键：把名字这个 li 推到最左边 */
   }
 }
