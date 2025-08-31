@@ -9,14 +9,13 @@ redirect_from:
 
 I am a senior undergraduate student at **Sichuan University**. Currently, I am a research intern at the **University of Virginia**, working with [Prof. Jundong Li](https://jundongli.github.io/). Previously, I was a research assistant at **Chongqing University**.
 
-My research interests mainly focus on the following directions:
+My research interests mainly focus on the following directions, and I am also willing to exploring other emerging areas in artificial intelligence that inspire me 🙌:
 1. **Graph Mining & Data Mining**  
 Graph neural networks, representation learning, and their applications in recommendation systems and scientific discovery.  
 2. **Machine Learning & Trustworthy AI**  
 Robust and fair learning, interpretability, and responsible deployment.  
 3. **Natural Language Processing & Large Language Models**  
 Language understanding, knowledge integration, and AI for science.
-I am also willing to exploring other emerging areas in artificial intelligence that inspire me！
 
 <span style="color:red; font-weight:bold;">
 🚀 I'm seeking for 2026 Fall PhD position, please feel free to contact me!
