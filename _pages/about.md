@@ -25,9 +25,9 @@ Language understanding, knowledge integration, and AI for science.
 
 News
 ======
-Jul, 2025: 🎉 One paper is accepted by Information Processing & Management (IPM)!
-May, 2025: 🎉 One paper is accepted by International Conference on Intelligent Computing (ICIC 2025)!
-Oct, 2024: 🎉 Awarded the Outstanding Undergraduate Student Award (Top 3%)!
+Jul, 2025: 🎉 One paper is accepted by Information Processing & Management (IPM)!  
+May, 2025: 🎉 One paper is accepted by International Conference on Intelligent Computing (ICIC 2025)!  
+Oct, 2024: 🎉 Awarded the Outstanding Undergraduate Student Award (Top 3%)!  
 Dec, 2023: 🥇 First Prize in the Chinese National Undergraduate Mathematics Competition (Top 3%)!
 
 Site-wide configuration
