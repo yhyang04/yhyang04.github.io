@@ -10,7 +10,7 @@ redirect_from:
 I am a senior undergraduate student at **Sichuan University**. Currently, I am a research intern at the **University of Virginia**, working with [Prof. Jundong Li](https://jundongli.github.io/). Previously, I was a research assistant at **Chongqing University**.
 
 My research interests mainly focus on the following directions:
-1.**Graph Mining & Data Mining**  
+1. **Graph Mining & Data Mining**  
    - Graph neural networks, representation learning, and their applications in recommendation systems and scientific discovery.  
 2. **Machine Learning & Trustworthy AI**  
    - Robust and fair learning, interpretability, and responsible deployment.  
