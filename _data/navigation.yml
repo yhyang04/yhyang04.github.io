@@ -17,7 +17,7 @@ main:
   - title: "Services"
     url: /#services
         
-- title: "CV"
-  url: /assets/CV_YuhanYang.pdf
+  - title: "CV"
+    url: /assets/CV_YuhanYang.pdf
 
     
