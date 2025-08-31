@@ -18,7 +18,7 @@ Robust and fair learning, interpretability, and responsible deployment.
 Language understanding, knowledge integration, and AI for science.
 
 <span style="color:red; font-weight:bold;">
-🚀 I am currently seeking PhD positions for Fall 2026 and research internship opportunities. Please feel free to contact me！
+🚀 I am currently seeking PhD positions for Fall 2026 and research internship opportunities. If you are interested in my profile, please feel free to contact me!
 </span>
 
 News
