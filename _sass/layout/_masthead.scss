@@ -2,16 +2,50 @@
   MASTHEAD
   ========================================================================== */
 .masthead {
-  /* ... (其他保持不变) */
+  position: fixed;
+  background: var(--global-bg-color);
+  height: fit-content;
+  top: 0;
+  width: 100%;
+  -webkit-animation: intro 0.3s both;
+  animation: intro 0.3s both;
+  -webkit-animation-delay: 0.15s;
+  animation-delay: 0.15s;
+  z-index: 20;
+
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    height: 1px;
+    background: var(--global-border-color);
+    width: 100%;
+  }
+
   &__inner-wrap {
-    /* ... (其他保持不变) */
+    @include container;
+    @include clearfix;
+    padding: 0.5em 1em;
+    font-family: $sans-serif-narrow;
+
+    @include breakpoint($x-large) {
+      max-width: $x-large;
+    }
+
+    nav {
+      z-index: 10;
+    }
+
+    a {
+      text-decoration: none;
+    }
   }
 }
 
 .masthead__menu {
-  display: flex; /* 使用 Flexbox 布局 */
-  justify-content: space-between; /* 将子项推向两端，实现左右对齐 */
-  align-items: center; /* 垂直居中对齐 */
+  display: flex;
+  justify-content: space-between; /* 关键：将左侧和右侧的 ul 推向两端 */
+  align-items: center;
 
   ul {
     margin: 0;
@@ -19,15 +53,14 @@
     list-style-type: none;
     display: flex;
     flex-wrap: nowrap;
-    align-items: center; /* 确保导航链接也垂直居中 */
+    align-items: center;
   }
 
   .masthead-left {
-    margin-right: auto; /* 这一行可以将左侧的元素推到最左边 */
+    /* 无需额外的 margin */
   }
 
   .masthead-right {
-    margin-left: auto; /* 这一行可以将右侧的元素推到最右边 */
     gap: 1rem;
     white-space: nowrap;
   }
