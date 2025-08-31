@@ -1,46 +1,15 @@
-.masthead {
-  position: fixed;
-  background: var(--global-bg-color);
-  height: fit-content;
-  top: 0;
-  width: 100%;
-  z-index: 20;
-  
-  &::after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    height: 1px;
-    background: var(--global-border-color);
-    width: 100%;
-  }
-
-  &__inner-wrap {
-    @include container;
-    @include clearfix;
-    padding: 0.5em 1em;
-    font-family: $sans-serif-narrow;
-
-    nav {
-      z-index: 10;
-    }
-
-    a {
-      text-decoration: none;
-    }
-  }
-}
-
 .masthead__menu {
   display: flex;
   justify-content: space-between; /* 左右分开 */
   align-items: center;
+  width: 100%;
 
   ul {
     margin: 0;
     padding: 0;
     list-style-type: none;
-    display: flex; /* 水平排列菜单项 */
+    display: flex;
+    flex-wrap: nowrap; /* 不换行 */
   }
 
   .masthead-left {
@@ -48,17 +17,13 @@
   }
 
   .masthead-right {
-    gap: 1rem; /* 菜单项间距 */
+    margin-left: auto;  /* 整个右侧菜单靠右对齐 */
+    gap: 1rem;          /* 菜单项间距 */
+    flex-wrap: nowrap;   /* 强制一行显示 */
   }
 }
 
 .masthead__menu-item {
-  background-color: var(--global-bg-color);
   display: block;
   white-space: nowrap;
-
-  &--lg {
-    padding-right: 2em;
-    font-weight: 700;
-  }
 }
