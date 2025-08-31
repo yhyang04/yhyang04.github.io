@@ -67,7 +67,7 @@ Diversity-Aware for Multi-Behavior Sequential Recommendation</strong></h3>
 
 
 ## Awards {#awards}
-🎖 Outstanding Student Award, Sichuan University 
+🎖 Outstanding Student Award, Sichuan University  
 💰 First-class Comprehensive Scholarship, Sichuan University  
 🏆 National First Prize, The National Mathematics Competition for College Students  
 🏆 National Third Prize, National Information Resource Case Competition  
