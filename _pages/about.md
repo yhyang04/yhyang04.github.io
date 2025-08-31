@@ -25,7 +25,10 @@ Language understanding, knowledge integration, and AI for science.
 
 News
 ======
-Jul, 2025: tada: one paper is accpeted by Information processing & management (IPM)!
+Jul, 2025:🎉 one paper is accpeted by Information processing & management (IPM).
+May, 2025:🎉 one paper is accepted by International Conference on Intelligent Computing (ICIC 2025).
+Oct, 2024:🎉 Awarded the Outstanding Undergraduate Student Award (Top 3%)!
+Dec, 2023:🥇 First Prize in the Chinese National Undergraduate Mathematics Competition!
 
 Site-wide configuration
 ------
