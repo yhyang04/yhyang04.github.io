@@ -176,6 +176,10 @@
   position: relative;
   min-width: 250px;
   background: var(--global-bg-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
 
   a {
     display: block;
@@ -203,14 +207,19 @@
   }
 
   .visible-links {
-    display: table;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
 
     li {
-      display: table-cell;
-      vertical-align: middle;
+      display: flex;
+      align-items: center;
 
       &:first-child {
-        font-weight: bold;
+        /* 移除加粗效果 */
+        font-weight: normal;
         text-wrap: wrap;
 
         a {
@@ -223,6 +232,17 @@
           margin-right: 0;
         }
       }
+    }
+
+    /* 左侧名字部分 */
+    &.masthead-left {
+      flex: 0 0 auto;
+    }
+
+    /* 右侧导航菜单 */
+    &.masthead-right {
+      flex: 0 0 auto;
+      gap: 1.5rem;
     }
 
     #theme-toggle {
