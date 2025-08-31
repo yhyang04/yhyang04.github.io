@@ -32,18 +32,20 @@ Oct, 2024: 🎉 Awarded the Outstanding Undergraduate Student Award (Top 3%)!
 Dec, 2023: 🥇 First Prize in the Chinese National Undergraduate Mathematics Competition (Top 3%)!
 
 ## Publications {#publications}
-<table style="width: 100%; margin: 0 auto; border-collapse: collapse; border: none;">
-  <tr>
-    <td style="width: 250px; border: none;">
-      <img src="images/ipm.png" alt="IPM Paper" style="width: 100%; height: auto; object-fit: cover; border-radius: 5px;">
-    </td>
-    <td style="text-align: right; vertical-align: top; padding-left: 2em; border: none;">
-      <strong>Multi-Scale Transformers with dual attention and adaptive masking for sequential recommendation</strong><br>
-      Haiqin Li; <strong>Yuhan Yang</strong>; Jun Zeng; Min Gao; Junhao Wen<br>
+<div style="display: flex; align-items: center; gap: 2em; max-width: 900px; margin: 0 auto; padding: 1em 0;">
+  <div style="flex-shrink: 0; width: 250px;">
+    <img src="images/ipm.png" alt="IPM Paper" style="width: 100%; height: auto; object-fit: cover; border-radius: 5px;">
+  </div>
+  <div style="flex-grow: 1; text-align: left;">
+    <h3 style="margin-top: 0; margin-bottom: 0.5em;"><strong>Multi-Scale Transformers with dual attention and adaptive masking for sequential recommendation</strong></h3>
+    <p style="margin: 0;">
+      Haiqin Li; <strong>Yuhan Yang</strong>; Jun Zeng; Min Gao; Junhao Wen
+    </p>
+    <p style="margin: 0.5em 0 0;">
       <em>Information Processing & Management</em> <a href="https://doi.org/10.1016/j.ipm.2025.104318">Paper</a>
-    </td>
-  </tr>
-</table>
+    </p>
+  </div>
+</div>
 
 
 
