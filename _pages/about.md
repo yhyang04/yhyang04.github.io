@@ -49,7 +49,7 @@ Dec, 2023: 🥇 First Prize in the Chinese National Undergraduate Mathematics Co
 
 <div style="display: flex; align-items: center; gap: 2em; max-width: 900px; margin: 0 auto; padding: 1em 0;">
   <div style="flex-shrink: 0; width: 250px;">
-    <img src="images/icic.png" alt="ICIC Paper" style="width: 100%; height: auto; object-fit: cover; border-radius: 5px;">
+    <img src="images/ICIC.png" alt="ICIC Paper" style="width: 100%; height: auto; object-fit: cover; border-radius: 5px;">
   </div>
   <div style="flex-grow: 1; text-align: left;">
     <h3 style="margin-top: 0; margin-bottom: 0.5em;"><strong>Dual-Perspective Modeling: Interest Trend-Detection and 
