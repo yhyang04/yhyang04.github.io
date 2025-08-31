@@ -21,8 +21,6 @@ Language understanding, knowledge integration, and AI for science.
 🚀 I'm seeking for 2026 Fall PhD position, please feel free to contact me!
 </span>
 
-
-
 News
 ======
 Jul, 2025: 🎉 One paper is accepted by Information Processing & Management (IPM)!  
