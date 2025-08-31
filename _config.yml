@@ -13,7 +13,7 @@ title                    : "Yuhan Yang"
 title_separator          : "-"
 name                     : &name "Yuhan Yang"
 url                      : "https://yhyang04.github.io"
-description              : &description "Senior Undergraduate student at Sichuan University/n yyh@stu.scu.edu.cn"
+description: &description "<p align='center'>Senior Undergraduate student at Sichuan University<br>yyh@stu.scu.edu.cn</p>"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yhyang04/yhyang04.github.io"
 
