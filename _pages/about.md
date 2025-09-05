@@ -11,7 +11,7 @@ I am a senior undergraduate student at **Sichuan University**. Currently, I am a
 
 My research interests mainly focus on the following directions, and I am also willing to exploring other emerging areas in artificial intelligence 🙌:
 1. **Graph Mining & Data Mining**  
-Graph neural networks, representation learning, and their applications in recommendation systems and scientific discovery.  
+Graph neural networks, representation learning, and their applications in recommender systems and scientific discovery.  
 2. **Machine Learning & Trustworthy AI**  
 Robust and fair learning, interpretability, and responsible deployment.  
 3. **Natural Language Processing & Large Language Models**  
