@@ -72,8 +72,8 @@ A complete list of papers is available in my [CV](/assets/CV_YuhanYang.pdf)
 🎖 Outstanding Student Award, Sichuan University  
 💰 First-class Comprehensive Scholarship, Sichuan University  
 🏆 National First Prize, The National Mathematics Competition for College Students  
-🏆 National Third Prize, National Information Resource Case Competition  
 🏆 Excellent Creative Paper, Shanghai Library Open Data Competition  
+🏆 National Third Prize, National Information Management Case Competition 
 🏆 Provincial Outstanding Project, National College Student Innovation Competition  
 
 
