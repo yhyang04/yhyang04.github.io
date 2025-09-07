@@ -59,7 +59,7 @@ Diversity-Aware for Multi-Behavior Sequential Recommendation</strong></h3>
     </p>
     <p style="margin: 0.5em 0 0;">
       <em>International Conference on Intelligent Computing</em><br>
-      <em>(ICIC 2025)</em> <a href="https://doi.org/10.1016/j.ipm.2025.104318">Paper</a>
+      <em>(ICIC 2025)</em> <a href="https://link.springer.com/chapter/10.1007/978-981-96-9815-8_28">Paper</a>
     </p>
   </div>
 </div>
