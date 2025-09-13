@@ -42,7 +42,7 @@ Dec, 2023: 🥇 First Prize in the Chinese National Undergraduate Mathematics Co
       Haiqin Li, <strong>Yuhan Yang</strong>, Jun Zeng, Min Gao, Junhao Wen
     </p>
     <p style="margin: 0.5em 0 0;">
-      <em>Information Processing & Management</em> <a href="ScaleRec.pdf">Paper</a>
+      <em>Information Processing & Management</em> <a href="_pages/ScaleRec.pdf">Paper</a>
     </p>
   </div>
 </div>
@@ -59,7 +59,7 @@ Diversity-Aware for Multi-Behavior Sequential Recommendation</strong></h3>
     </p>
     <p style="margin: 0.5em 0 0;">
       <em>International Conference on Intelligent Computing</em><br>
-      <em>(ICIC 2025)</em> <a href="ICIC2025.pdf">Paper</a>
+      <em>(ICIC 2025)</em> <a href="_pages/ICIC2025.pdf">Paper</a>
     </p>
   </div>
 </div>
