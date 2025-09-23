@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student at **Sichuan University**. Currently, I am a research intern at the **University of Virginia**, working with [Prof. Jundong Li](https://jundongli.github.io/). Previously, I was a research assistant at **Chongqing University**.
+I am a senior undergraduate student at **Sichuan University**. Currently, I am a research intern at the **University of Virginia**, working with [Prof. Jundong Li](https://jundongli.github.io/). Previously, I was a research assistant at **Chongqing University**, where I worked with [Prof. Junhao Wen](https://scholar.google.com/citations?hl=zh-CN&user=1BOLKHkAAAAJ),[Prof. Wei Zhou](https://scholar.google.com/citations?hl=zh-CN&user=AfJ0xE4AAAAJ), and [Prof. Min Gao](https://scholar.google.com/citations?hl=zh-CN&user=K8oe7sMAAAAJ).
 
 My research interests mainly focus on the following directions, and I am also willing to exploring other emerging areas in artificial intelligence 🙌:
 1. **Graph Mining & Data Mining**  
