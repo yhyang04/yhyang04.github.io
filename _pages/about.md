@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student at **Sichuan University**. Currently, I am a research intern at the **University of Virginia**, working with [Prof. Jundong Li](https://jundongli.github.io/). Previously, I was a research assistant at **Chongqing University**, where I worked with [Prof. Junhao Wen](http://www.cse.cqu.edu.cn/info/2095/3491.htm), [Prof. Wei Zhou](http://www.cse.cqu.edu.cn/info/2096/5097.htm), and [Prof. Min Gao](http://www.cse.cqu.edu.cn/info/2095/7111.htm).
+I am a senior undergraduate student at **Sichuan University**. I am currently a research intern at the **University of Michigan**, working with [Prof. Alexander Rodríguez](https://alrodri.engin.umich.edu/). Previously, I was a research intern at the **University of Virginia**, fortunately advised by [Prof. Jundong Li](https://jundongli.github.io/), and closely collaborated with [Prof. Junhao Wen](http://www.cse.cqu.edu.cn/info/2095/3491.htm), [Prof. Wei Zhou](http://www.cse.cqu.edu.cn/info/2096/5097.htm), and [Prof. Min Gao](http://www.cse.cqu.edu.cn/info/2095/7111.htm) at **Chongqing University**.
+
 
 My research interests mainly focus on the following directions, and I am also willing to exploring other emerging areas in artificial intelligence 🙌:
 1. **Trustworthy AI & Machine Learning**  
