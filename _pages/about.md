@@ -13,7 +13,7 @@ My research interests mainly focus on the following directions, and I am also wi
 1. **Trustworthy AI & Machine Learning**  
 Fairness-aware, privacy-preserving, robust, and interpretable machine learning.
 2. **Graph Learning & Data Mining**  
-Graph neural networks, graph representation learning, and knowledge discovery from complex networks, with applications in recommender systems and scientific knowledge graphs.
+Graph neural networks, graph representation learning, and knowledge discovery from complex networks, with applications in recommender systems.
 3. **Large Language Models**  
 LLM-based reasoning and decision-making, retrieval-augmented and graph-grounded LLMs, and multi-agent collaboration for scientific and data-driven problem solving.
 4. **Natural Language Processing**  
