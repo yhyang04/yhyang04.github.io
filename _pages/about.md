@@ -14,14 +14,14 @@ My research interests mainly focus on the following directions, and I am also wi
 Fairness-aware, privacy-preserving, robust, and interpretable machine learning.
 2. **Graph Learning & Data Mining**  
 Graph neural networks, graph representation learning, and knowledge discovery from complex networks, with applications in recommender systems and scientific knowledge graphs.
-3. **Large Language Models & Intelligent Agents**  
+3. **Large Language Models**  
 LLM-based reasoning and decision-making, retrieval-augmented and graph-grounded LLMs, and multi-agent collaboration for scientific and data-driven problem solving.
 4. **Natural Language Processing**  
 Language understanding, knowledge extraction, and text-driven scientific discovery.
 
 
 <span style="color:red; font-weight:bold;">
-🚀 I am currently seeking PhD positions for Fall 2026 and research internship opportunities. If you are interested in my profile, please feel free to contact me!
+🚀 I am currently seeking PhD positions for Fall 2026. If you are interested in my profile, please feel free to contact me at yuhan_yang_@outlook.com!
 </span>
 
 News
