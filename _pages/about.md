@@ -21,7 +21,7 @@ Language understanding, knowledge extraction, and text-driven scientific discove
 
 
 <span style="color:red; font-weight:bold;">
-🚀 I am currently seeking PhD positions for Fall 2026. If you are interested in my profile, please feel free to contact me at yuhan_yang_@outlook.com!
+🚀 I am currently seeking PhD positions for Fall 2026. If you are interested in my profile, please feel free to contact me at [yuhan_yang_@outlook.com](mailto:yuhan_yang_@outlook.com)!
 </span>
 
 News
