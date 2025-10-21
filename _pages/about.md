@@ -10,12 +10,15 @@ redirect_from:
 I am a senior undergraduate student at **Sichuan University**. Currently, I am a research intern at the **University of Virginia**, working with [Prof. Jundong Li](https://jundongli.github.io/). Previously, I was a research assistant at **Chongqing University**, where I worked with [Prof. Junhao Wen](http://www.cse.cqu.edu.cn/info/2095/3491.htm), [Prof. Wei Zhou](http://www.cse.cqu.edu.cn/info/2096/5097.htm), and [Prof. Min Gao](http://www.cse.cqu.edu.cn/info/2095/7111.htm).
 
 My research interests mainly focus on the following directions, and I am also willing to exploring other emerging areas in artificial intelligence 🙌:
-1. **Graph Mining & Data Mining**  
-Graph neural networks, representation learning, and their applications in recommender systems and scientific discovery.  
-2. **Machine Learning & Trustworthy AI**  
-Robust and fair learning, interpretability, and responsible deployment.  
-3. **Natural Language Processing & Large Language Models**  
-Language understanding, knowledge integration, and AI for science.
+1. **Trustworthy AI & Machine Learning**  
+Fairness-aware, privacy-preserving, robust, and interpretable machine learning.
+2. **Graph Learning & Data Mining**  
+Graph neural networks, graph representation learning, and knowledge discovery from complex networks, with applications in recommender systems and scientific knowledge graphs.
+3. **Large Language Models & Intelligent Agents**  
+LLM-based reasoning and decision-making, retrieval-augmented and graph-grounded LLMs, and multi-agent collaboration for scientific and data-driven problem solving.
+4. **Natural Language Processing**  
+Language understanding, knowledge extraction, and text-driven scientific discovery.
+
 
 <span style="color:red; font-weight:bold;">
 🚀 I am currently seeking PhD positions for Fall 2026 and research internship opportunities. If you are interested in my profile, please feel free to contact me!
