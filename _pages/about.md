@@ -61,7 +61,7 @@ Dec, 2023: 🥇 First Prize in the Chinese National Undergraduate Mathematics Co
       <strong>Yuhan Yang</strong>, Jiahui Wang, Xiaojuan Zhang
     </p>
     <p style="margin: 0.5em 0 0;">
-      <a href="_pages/HTST.pdf">Paper</a>
+      <a href="assets/HTST.pdf">Paper</a>
     </p>
   </div>
 </div>
