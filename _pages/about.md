@@ -38,7 +38,7 @@ Dec, 2023: 🥇 First Prize in the Chinese National Undergraduate Mathematics Co
 ## Publications {#publications}
 <div style="display: flex; align-items: center; gap: 2em; max-width: 900px; margin: 0 auto; padding: 1em 0;">
   <div style="flex-shrink: 0; width: 250px;">
-    <img src="images/ADPrompt.png" alt="arxiv" style="width: 100%; height: auto; object-fit: cover; border-radius: 5px;">
+    <img src="images/ADPrompt.png" alt="ADPrompt" style="width: 100%; height: auto; object-fit: cover; border-radius: 5px;">
   </div>
   <div style="flex-grow: 1; text-align: left;">
     <h3 style="margin-top: 0; margin-bottom: 0.5em;"><strong>Adaptive Dual Prompting: Hierarchical Debiasing for Fairness-aware Graph Neural Networks</strong></h3>
@@ -47,6 +47,22 @@ Dec, 2023: 🥇 First Prize in the Chinese National Undergraduate Mathematics Co
     </p>
     <p style="margin: 0.5em 0 0;">
       <a href="https://www.arxiv.org/abs/2510.23469">Paper</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 2em; max-width: 900px; margin: 0 auto; padding: 1em 0;">
+  <div style="flex-shrink: 0; width: 250px;">
+    <img src="images/HTST.png" alt="HTST" style="width: 100%; height: auto; object-fit: cover; border-radius: 5px;">
+  </div>
+  <div style="flex-grow: 1; text-align: left;">
+    <h3 style="margin-top: 0; margin-bottom: 0.5em;"><strong>Hybrid Topology Representation and deep Semantics with Temporal Weighting for Link Prediction in Co-word Network<img width="432" height="24" alt="image" src="https://github.com/user-attachments/assets/4df49895-531d-4ae1-96a3-788b0c10c5e2" />
+</strong></h3>
+    <p style="margin: 0;">
+      <strong>Yuhan Yang</strong>, Jiahui Wang, Xiaojuan Zhang
+    </p>
+    <p style="margin: 0.5em 0 0;">
+      <a href="_pages/HTST.pdf">Paper</a>
     </p>
   </div>
 </div>
