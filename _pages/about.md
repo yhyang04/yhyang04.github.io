@@ -56,8 +56,7 @@ Dec, 2023: 🥇 First Prize in the Chinese National Undergraduate Mathematics Co
     <img src="images/HTST.png" alt="HTST" style="width: 100%; height: auto; object-fit: cover; border-radius: 5px;">
   </div>
   <div style="flex-grow: 1; text-align: left;">
-    <h3 style="margin-top: 0; margin-bottom: 0.5em;"><strong>Hybrid Topology Representation and deep Semantics with Temporal Weighting for Link Prediction in Co-word Network<img width="432" height="24" alt="image" src="https://github.com/user-attachments/assets/4df49895-531d-4ae1-96a3-788b0c10c5e2" />
-</strong></h3>
+    <h3 style="margin-top: 0; margin-bottom: 0.5em;"><strong>Hybrid Topology Representation and deep Semantics with Temporal Weighting for Link Prediction in Co-word Network</strong></h3>
     <p style="margin: 0;">
       <strong>Yuhan Yang</strong>, Jiahui Wang, Xiaojuan Zhang
     </p>
