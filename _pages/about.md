@@ -16,7 +16,7 @@ Fairness-aware, privacy-preserving, robust, and interpretable machine learning.
 2. **Graph Learning & Data Mining**  
 Graph neural networks, graph representation learning, and knowledge discovery from complex networks, with applications in recommender systems.
 3. **Large Language Models**  
-LLM-based reasoning and decision-making, retrieval-augmented LLMs, and multi-agent collaboration for scientific and data-driven problem solving.
+LLM reasoning and decision-making, retrieval-augmented LLMs, and multi-agent collaboration for scientific and data-driven problem solving.
 4. **Natural Language Processing**  
 Language understanding, knowledge extraction, and text-driven scientific discovery.
 
@@ -36,6 +36,21 @@ Oct, 2024: 🎉 Awarded the Outstanding Undergraduate Student Award (Top 3%)!
 Dec, 2023: 🥇 First Prize in the Chinese National Undergraduate Mathematics Competition (Top 3%)!
 
 ## Publications {#publications}
+<div style="display: flex; align-items: center; gap: 2em; max-width: 900px; margin: 0 auto; padding: 1em 0;">
+  <div style="flex-shrink: 0; width: 250px;">
+    <img src="images/ADPrompt.png" alt="arxiv" style="width: 100%; height: auto; object-fit: cover; border-radius: 5px;">
+  </div>
+  <div style="flex-grow: 1; text-align: left;">
+    <h3 style="margin-top: 0; margin-bottom: 0.5em;"><strong>Adaptive Dual Prompting: Hierarchical Debiasing for Fairness-aware Graph Neural Networks</strong></h3>
+    <p style="margin: 0;">
+      <strong>Yuhan Yang</strong>, Xingbo Fu, Jundong Li
+    </p>
+    <p style="margin: 0.5em 0 0;">
+      <a href="https://www.arxiv.org/abs/2510.23469">Paper</a>
+    </p>
+  </div>
+</div>
+
 <div style="display: flex; align-items: center; gap: 2em; max-width: 900px; margin: 0 auto; padding: 1em 0;">
   <div style="flex-shrink: 0; width: 250px;">
     <img src="images/ipm.png" alt="IPM Paper" style="width: 100%; height: auto; object-fit: cover; border-radius: 5px;">
