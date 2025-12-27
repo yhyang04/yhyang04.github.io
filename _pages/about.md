@@ -124,6 +124,7 @@ I love 🎵 music, 🌍 traveling, 📸 photography, and 🏸 sports. I was also
 
 <div style="text-align: center; margin: 2em 0;">
   <script type="text/javascript" id="clustrmaps"
-    src="//clustrmaps.com/map_v2.js?d=r9xa2FUHJgdefVhZBusvMgGDkHbOYY7KUhjTlVxfjIQ&cl=ffffff&w=a">
+    src="//clustrmaps.com/map_v2.js?d=r9xa2FUHJgdefVhZBusvMgGDkHbOYY7KUhjTlVxfjIQ&cl=ffffff&w=300">
   </script>
 </div>
+
