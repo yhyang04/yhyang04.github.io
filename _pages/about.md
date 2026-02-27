@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student at **Sichuan University**. I am currently a research intern at the **University of Michigan**, working with [Prof. Alexander Rodríguez](https://alrodri.engin.umich.edu/). Previously, I was a research intern at the **University of Virginia**, fortunately advised by [Prof. Jundong Li](https://jundongli.github.io/), and closely collaborated with [Prof. Junhao Wen](http://www.cse.cqu.edu.cn/info/2095/3491.htm), [Prof. Wei Zhou](http://www.cse.cqu.edu.cn/info/2096/5097.htm), and [Prof. Min Gao](http://www.cse.cqu.edu.cn/info/2095/7111.htm) at **Chongqing University**.
+I am a senior undergraduate student at **Sichuan University**. I am currently a research intern at the **University of Michigan**, working with [Prof. Alexander Rodríguez](https://alrodri.engin.umich.edu/). Previously, I was a research intern at the **University of Virginia**, fortunately advised by [Prof. Jundong Li](https://jundongli.github.io/).
 
 
 My research interests mainly focus on the following directions, and I am also willing to exploring other emerging areas in artificial intelligence 🙌:
@@ -21,19 +21,15 @@ LLM reasoning and decision-making, retrieval-augmented LLMs, and multi-agent col
 Language understanding, knowledge extraction, and text-driven scientific discovery.
 
 
-<span style="color:red; font-weight:bold;">
-🚀 I am currently seeking PhD positions for Fall 2026. If you are interested in my profile, please feel free to contact me at [yuhan_yang_@outlook.com](mailto:yuhan_yang_@outlook.com).
-</span>
-
 News
 ======
 Jul, 2025: 🎉 One paper is accepted by Information Processing & Management (IPM)!
 
 May, 2025: 🎉 One paper is accepted by International Conference on Intelligent Computing (ICIC 2025)!
 
-Oct, 2024: 🎉 Awarded the Outstanding Undergraduate Student Award (Top 3%)!
+Oct, 2024: 🎉 Awarded the Outstanding Undergraduate Student Award!
 
-Dec, 2023: 🥇 First Prize in the Chinese National Undergraduate Mathematics Competition (Top 3%)!
+Dec, 2023: 🥇 First Prize in the Chinese National Undergraduate Mathematics Competition!
 
 ## Publications {#publications}
 <div style="display: flex; align-items: center; gap: 2em; max-width: 900px; margin: 0 auto; padding: 1em 0;">
