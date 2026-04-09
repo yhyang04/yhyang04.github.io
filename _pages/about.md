@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student at **Sichuan University**. I am currently a research intern at the **University of Michigan**, working with [Prof. Alexander Rodríguez](https://alrodri.engin.umich.edu/). Previously, I was a research intern at the **University of Virginia**, fortunately advised by [Prof. Jundong Li](https://jundongli.github.io/).
-
-
-My research interests mainly focus on the following directions, and I am also willing to exploring other emerging areas in artificial intelligence 🙌:
+I am a senior undergraduate student at **Sichuan University**. My research interests mainly focus on the following directions, and I am also willing to exploring other emerging areas in artificial intelligence 🙌:
 1. **Data Analysis and modeling**  
 
 2. **Time-Series forecast**  
