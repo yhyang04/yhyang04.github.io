@@ -11,9 +11,9 @@ I am a senior undergraduate student at **Sichuan University**. My research inter
 1. **Data Analysis and modeling**  
 
 2. **Time-Series forecast**  
-Graph neural networks, graph representation learning, and knowledge discovery from complex networks, with applications in recommender systems.
+
 3. **Information System**  
-LLM reasoning and decision-making, retrieval-augmented LLMs, and multi-agent collaboration for scientific and data-driven problem solving.
+
 
 
 
