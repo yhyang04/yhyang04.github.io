@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student at **Sichuan University**. My research interests mainly focus on the following directions, and I am also willing to exploring other emerging areas in artificial intelligence 🙌:
-1. **Data Analysis and modeling**  
+I am a senior undergraduate student at **Sichuan University**. My research interests mainly focus on the following directions, and I am also willing to exploring other emerging areas 🙌:
+1. **Data Analysis and Modeling**  
 
-2. **Time-Series forecast**  
+2. **Time-Series Forecast**  
 
 3. **Information System**  
 
