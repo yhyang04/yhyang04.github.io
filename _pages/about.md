@@ -89,7 +89,6 @@ Diversity-Aware for Multi-Behavior Sequential Recommendation</strong></h3>
   </div>
 </div>
 
-A complete list of papers is available in my [CV](/assets/CV_YuhanYang.pdf)
 
 
 
@@ -110,7 +109,7 @@ Reviewer: KDD 2026, CIKM 2025, AAAI 2026
 I love 🎵 music, 🌍 traveling, 📸 photography, and 🏸 sports. I was also part of the University Art Troupe, where I both organized and participated in various performances and cultural events🎙️.
 
 📧 Email:  
-[yyh@stu.scu.edu.cn](mailto:yyh@stu.scu.edu.cn)  
+[yuhanyyh@umich.edu](mailto:yuhanyyh@umich.edu)  
 [yuhan_yang_@outlook.com](mailto:yuhan_yang_@outlook.com)
 
 <div style="text-align: center; margin: 2em 0;">
