@@ -9,14 +9,12 @@ redirect_from:
 
 I am an incoming PhD at the **University of Michigan**, advised by [Prof. Alexander Rodríguez](https://alrodri.engin.umich.edu/).
 My research interests mainly focus on the following directions, and I am also willing to exploring other emerging areas in artificial intelligence 🙌:
-1. **Trustworthy Machine Learning**  
-Fairness-aware, privacy-preserving, robust, and interpretable machine learning.
-2. **Graph Learning & Data Mining**  
-Graph neural networks, graph representation learning, and knowledge discovery from complex networks, with applications in recommender systems.
-3. **Large Language Models**  
-LLM reasoning and decision-making, retrieval-augmented LLMs, and multi-agent collaboration for scientific and data-driven problem solving.
-4. **Natural Language Processing**  
-Language understanding, knowledge extraction, and text-driven scientific discovery.
+1. **AI for Science**  
+Scientific modeling and AI-driven discovery in medicine, biology, and geoscience...
+2. **Large Language Models**  
+Reasoning, multi-agent systems, and decision-making.
+3. **Data Mining**  
+Graph representation learning, and knowledge discovery from complex networks.
 
 
 News
@@ -29,33 +27,34 @@ May, 2025: 🎉 One paper is accepted by International Conference on Intelligent
 ## Publications {#publications}
 <div style="display: flex; align-items: center; gap: 2em; max-width: 900px; margin: 0 auto; padding: 1em 0;">
   <div style="flex-shrink: 0; width: 250px;">
-    <img src="images/ADPrompt.png" alt="ADPrompt" style="width: 100%; height: auto; object-fit: cover; border-radius: 5px;">
+    <img src="images/MechSim.png" alt="MechSim" style="width: 100%; height: auto; object-fit: cover; border-radius: 5px;">
   </div>
   <div style="flex-grow: 1; text-align: left;">
-    <h3 style="margin-top: 0; margin-bottom: 0.5em;"><strong>Adaptive Dual Prompting: Hierarchical Debiasing for Fairness-aware Graph Neural Networks</strong></h3>
+    <h3 style="margin-top: 0; margin-bottom: 0.5em;"><strong>Simulate, Reason, Decide: Scientific Reasoning with LLMs for Simulation-Driven Decision Making</strong></h3>
     <p style="margin: 0;">
-      <strong>Yuhan Yang</strong>, Xingbo Fu, Jundong Li
+      <strong>Yuhan Yang</strong>, Ruipu Li, Alexander Rodríguez
     </p>
     <p style="margin: 0.5em 0 0;">
-      <a href="https://www.arxiv.org/abs/2510.23469">Paper</a>
+      <a href="https://arxiv.org/abs/2606.04505">Paper</a>
     </p>
   </div>
 </div>
 
 <div style="display: flex; align-items: center; gap: 2em; max-width: 900px; margin: 0 auto; padding: 1em 0;">
   <div style="flex-shrink: 0; width: 250px;">
-    <img src="images/HTST.png" alt="HTST" style="width: 100%; height: auto; object-fit: cover; border-radius: 5px;">
+    <img src="images/ADPrompt.png" alt="ADPrompt" style="width: 100%; height: auto; object-fit: cover; border-radius: 5px;">
   </div>
   <div style="flex-grow: 1; text-align: left;">
-    <h3 style="margin-top: 0; margin-bottom: 0.5em;"><strong>Hybrid Topology Representation and deep Semantics with Temporal Weighting for Link Prediction in Co-word Network</strong></h3>
+    <h3 style="margin-top: 0; margin-bottom: 0.5em;"><strong>Towards Fair Graph Prompting: A Dual-Prompt Mechanism for Mitigating Attribute and Structural Bias</strong></h3>
     <p style="margin: 0;">
-      <strong>Yuhan Yang</strong>, Jiahui Wang, Xiaojuan Zhang
+      <strong>Yuhan Yang</strong>, Xingbo Fu, Jundong Li
     </p>
     <p style="margin: 0.5em 0 0;">
-      <a href="assets/HTST.pdf">Paper</a>
+      <a href="https://arxiv.org/abs/2510.23469v2">Paper</a>
     </p>
   </div>
 </div>
+
 
 <div style="display: flex; align-items: center; gap: 2em; max-width: 900px; margin: 0 auto; padding: 1em 0;">
   <div style="flex-shrink: 0; width: 250px;">
@@ -72,33 +71,12 @@ May, 2025: 🎉 One paper is accepted by International Conference on Intelligent
   </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 2em; max-width: 900px; margin: 0 auto; padding: 1em 0;">
-  <div style="flex-shrink: 0; width: 250px;">
-    <img src="images/ICIC.png" alt="ICIC Paper" style="width: 100%; height: auto; object-fit: cover; border-radius: 5px;">
-  </div>
-  <div style="flex-grow: 1; text-align: left;">
-    <h3 style="margin-top: 0; margin-bottom: 0.5em;"><strong>Dual-Perspective Modeling: Interest Trend-Detection and 
-Diversity-Aware for Multi-Behavior Sequential Recommendation</strong></h3>
-    <p style="margin: 0;">
-      Peixuan Sun, Zhida Zheng, <strong>Yuhan Yang</strong>, Wei Zhou, Junhao Wen
-    </p>
-    <p style="margin: 0.5em 0 0;">
-      <em>International Conference on Intelligent Computing</em><br>
-      <em>(ICIC 2025)</em> <a href="_pages/ICIC2025.pdf">Paper</a>
-    </p>
-  </div>
-</div>
-
-
-
 
 ## Awards {#awards}
+🎖 Outstanding Graduate Award, Sichuan University  
 🎖 Outstanding Student Award, Sichuan University  
 💰 First-class Comprehensive Scholarship, Sichuan University  
 🏆 National First Prize, The National Mathematics Competition for College Students  
-🏆 Excellent Creative Paper, Shanghai Library Open Data Competition  
-🏆 National Third Prize, National Information Management Case Competition  
-🏆 Provincial Outstanding Project, National College Student Innovation Competition  
 
 
 ## Services {#services}
@@ -112,8 +90,8 @@ I love 🎵 music, 🌍 traveling, 📸 photography, and 🏸 sports. I was also
 [yuhanyyh@umich.edu](mailto:yuhanyyh@umich.edu)  
 [yuhan_yang_@outlook.com](mailto:yuhan_yang_@outlook.com)
 
-<div style="text-align: center; margin: 2em 0;">
-  <script type="text/javascript" id="clustrmaps"
-    src="//clustrmaps.com/map_v2.js?d=r9xa2FUHJgdefVhZBusvMgGDkHbOYY7KUhjTlVxfjIQ&cl=ffffff&w=300">
-  </script>
-</div>
+<script
+  type="text/javascript"
+  id="clustrmaps"
+  src="https://clustrmaps.com/map_v2.js?d=r9xa2FUHJgdefVhZBusvMgGDkHbOYY7KUhjTlVxfjIQ&cl=ffffff&w=300">
+</script>
